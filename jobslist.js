@@ -1,64 +1,59 @@
 [
     {
-      "AddressLine1": "123 Main St",
+      "AddressLine1": "",
       "AddressLine2": null,
       "AppGoalScore": 0,
-      "BrandTemplateId": 155500,
+      "BrandTemplateId": 24101,
       "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "Knight and Brewer Trading",
-      "Date": "2017-04-27T04:00:00Z",
-      "Distance": "1.6",
+      "City": "Oakland",
+      "Company": "CVS Caremark",
+      "Date": "2015-04-20T04:00:00Z",
+      "Distance": "0.5",
       "Features": [
-        "OneClickApply"
+        "Ecommerce"
       ],
       "ProfileModules": {
         "AppVersionSupported": false,
-        "IsSupported": true,
-        "RequiredModules": [
-          2,
-          3,
-          4,
-          6,
-          8
-        ]
+        "IsSupported": false,
+        "RequiredModules": []
       },
       "Industries": [
-        "Education"
+        "Healthcare"
       ],
       "Categories": [
+        "Full-time",
         "Part-time"
       ],
-      "Id": "6134763",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/education.png?v=1",
+      "Id": "6063488",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1",
       "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.541909,-77.442931&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.541909,-77.442931",
-        "Logo": "https://media.snagajob.com/ui/app/icons/education.png?v=1"
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.809,-122.2695&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.809,-122.2695",
+        "Logo": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1"
       },
       "IsExpired": false,
       "IsSaved": false,
-      "IsMobileOptimized": true,
-      "JobTitle": "Cashier",
-      "Latitude": "37.541909",
-      "LocationName": "Knight and Brewer Trading-23238",
-      "Longitude": "-77.442931",
-      "LatLngConfidence": 1,
-      "PostalCode": "23238",
+      "IsMobileOptimized": false,
+      "JobTitle": "Pharmacy Technician Trainee / Pharmacy Service Associate",
+      "Latitude": "37.809",
+      "LocationName": "Oakland, CA, 94612",
+      "Longitude": "-122.2695",
+      "LatLngConfidence": 3,
+      "PostalCode": "94612",
       "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
+      "StateProvCode": "CA",
+      "StateProvName": "California",
       "Value": 50
     },
     {
-      "AddressLine1": "80 White Clarendon Avenue",
-      "AddressLine2": "",
+      "AddressLine1": "2180 Contra Costa Blvd.",
+      "AddressLine2": null,
       "AppGoalScore": 0,
-      "BrandTemplateId": 1590,
+      "BrandTemplateId": 166,
       "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "Test Brand",
-      "Date": "2017-02-06T05:00:00Z",
-      "Distance": "9.9",
+      "City": "Pleasant Hill",
+      "Company": "Boston Market",
+      "Date": "2015-02-25T05:00:00Z",
+      "Distance": "15.3",
       "Features": null,
       "ProfileModules": {
         "AppVersionSupported": false,
@@ -72,940 +67,24 @@
         "Full-time",
         "Part-time"
       ],
-      "Id": "6130485",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/chickfila.png?v=1",
+      "Id": "6054187",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1",
       "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.6661,-77.3709&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.6661,-77.3709",
-        "Logo": "https://media.snagajob.com/ui/app/logos/chickfila.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": true,
-      "JobTitle": "Night Assistant Manager",
-      "Latitude": "37.6661",
-      "LocationName": "Schwartz Mcintosh Associates",
-      "Longitude": "-77.3709",
-      "LatLngConfidence": 3,
-      "PostalCode": "23116",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-15T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Other"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6059513",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.94654,-122.059999&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.94654,-122.059999",
+        "Logo": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1"
       },
       "IsExpired": false,
       "IsSaved": false,
       "IsMobileOptimized": false,
-      "JobTitle": "OR Technician (PRN / Forest Campus)",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-17T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Healthcare"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6061755",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": false,
-      "JobTitle": "Registered Nurse - First Assistant - OR (Forest Campus)",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "123 Main St",
-      "AddressLine2": "",
-      "AppGoalScore": 0,
-      "BrandTemplateId": 1590,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "Test Brand",
-      "Date": "2016-02-25T05:00:00Z",
-      "Distance": "1.6",
-      "Features": [
-        "OneClickApply"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": true,
-        "RequiredModules": [
-          2,
-          3,
-          4,
-          6,
-          8
-        ]
-      },
-      "Industries": [
-        "Construction"
-      ],
-      "Categories": [
-        "Part-time",
-        "Teen"
-      ],
-      "Id": "6092619",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/chickfila.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.541909,-77.442931&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.541909,-77.442931",
-        "Logo": "https://media.snagajob.com/ui/app/logos/chickfila.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": true,
-      "JobTitle": "Cool Job",
-      "Latitude": "37.541909",
-      "LocationName": "Location Name - 1",
-      "Longitude": "-77.442931",
+      "JobTitle": "General Manager",
+      "Latitude": "37.94654",
+      "LocationName": "1961 - Pleasant Hill - CA",
+      "Longitude": "-122.059999",
       "LatLngConfidence": 1,
-      "PostalCode": "23233",
+      "PostalCode": "94523",
       "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-15T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Installation & Repair"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6057656",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/installation-and-repair.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/installation-and-repair.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": false,
-      "JobTitle": "Mechanic I / Part-Time / Chippenham Hospital",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-16T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Healthcare"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6061069",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": false,
-      "JobTitle": "Registered Nurse - First Assistant - OR (Forest Campus)",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-15T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Healthcare"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6057311",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": false,
-      "JobTitle": "Clincal Care Manager UM PRN / Tucker Pavilion / Chippenham Hospital",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "123 Richmond St",
-      "AddressLine2": "",
-      "AppGoalScore": 0,
-      "BrandTemplateId": 2499,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "Wendy's",
-      "Date": "2015-08-26T04:00:00Z",
-      "Distance": "2.3",
-      "Features": [
-        "Sponsored",
-        "OneClickApply"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": true,
-        "RequiredModules": [
-          2,
-          3,
-          4,
-          6,
-          8
-        ]
-      },
-      "Industries": [
-        "Accounting & Finance"
-      ],
-      "Categories": [
-        "Part-time",
-        "Teen"
-      ],
-      "Id": "6082344",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/wendys.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.535492,-77.431028&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.535492,-77.431028",
-        "Logo": "https://media.snagajob.com/ui/app/logos/wendys.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": true,
-      "JobTitle": "Test Job",
-      "Latitude": "37.535492",
-      "LocationName": "Test Location - 1",
-      "Longitude": "-77.431028",
-      "LatLngConfidence": 1,
-      "PostalCode": "23233",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-16T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Healthcare"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6060595",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": false,
-      "JobTitle": "Emerg Dept Tech PRN / Chippenham Hospital",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-16T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Other"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6060078",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": false,
-      "JobTitle": "Electrician",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-15T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Healthcare"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6059192",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": false,
-      "JobTitle": "Emerg Dept Tech PRN / Chippenham Hospital",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "11431 Midlothian Tpke",
-      "AddressLine2": "",
-      "AppGoalScore": 0,
-      "BrandTemplateId": 2030,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "Burger King",
-      "Date": "2016-04-21T04:00:00Z",
-      "Distance": "7.9",
-      "Features": null,
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Food & Restaurant"
-      ],
-      "Categories": [
-        "Part-time"
-      ],
-      "Id": "6098125",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/food-and-restaurant.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.505062,-77.607799&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.505062,-77.607799",
-        "Logo": "https://media.snagajob.com/ui/app/icons/food-and-restaurant.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": true,
-      "JobTitle": "Maintenance",
-      "Latitude": "37.505062",
-      "LocationName": "#960 - R6 - 11431 Midlothian Tpke - 1",
-      "Longitude": "-77.607799",
-      "LatLngConfidence": 1,
-      "PostalCode": "23235",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "90 North Rocky Oak Lane",
-      "AddressLine2": "",
-      "AppGoalScore": 0,
-      "BrandTemplateId": 1590,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "Test Brand",
-      "Date": "2017-02-06T05:00:00Z",
-      "Distance": "9.9",
-      "Features": null,
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Food & Restaurant"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time",
-        "Teen"
-      ],
-      "Id": "6130476",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/chickfila.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.6661,-77.3709&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.6661,-77.3709",
-        "Logo": "https://media.snagajob.com/ui/app/logos/chickfila.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": true,
-      "JobTitle": "Dining Room Host/Hostess",
-      "Latitude": "37.6661",
-      "LocationName": "Rocha Brewer Trading",
-      "Longitude": "-77.3709",
-      "LatLngConfidence": 3,
-      "PostalCode": "23116",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-16T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Other"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6059977",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": false,
-      "JobTitle": "FNS Worker PRN",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-15T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Other"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6059141",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": false,
-      "JobTitle": "Quality Data Specialist PRN/Chippenham Hospital",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-15T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Other"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6058919",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": false,
-      "JobTitle": "RN Charge Nurse / Johnston-Willis / Gamma Knife",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-15T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Other"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6058645",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": false,
-      "JobTitle": "Registered Nurse - Radiation Oncology (PRN / Forest Campus)",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-17T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Healthcare"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6062931",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": false,
-      "JobTitle": "Clincal Care Manager UM PRN / Tucker Pavilion / Chippenham Hospital",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-16T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Other"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6061602",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": false,
-      "JobTitle": "OR Technician (PRN / Forest Campus)",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-16T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Installation & Repair"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6059846",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/installation-and-repair.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/installation-and-repair.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": false,
-      "JobTitle": "Mechanic I / Part-Time / Chippenham Hospital",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "123 Main Street",
-      "AddressLine2": "",
-      "AppGoalScore": 0,
-      "BrandTemplateId": 1590,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "Test Brand",
-      "Date": "2014-11-21T05:00:00Z",
-      "Distance": "1.6",
-      "Features": [
-        "Ecommerce",
-        "OneClickApply"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": true,
-        "RequiredModules": [
-          2,
-          3,
-          4,
-          6,
-          8
-        ]
-      },
-      "Industries": [
-        "Media & Entertainment"
-      ],
-      "Categories": [
-        "Part-time",
-        "Teen"
-      ],
-      "Id": "6050271",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/chickfila.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.541909,-77.442931&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.541909,-77.442931",
-        "Logo": "https://media.snagajob.com/ui/app/logos/chickfila.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": true,
-      "JobTitle": "Evening Team Member",
-      "Latitude": "37.541909",
-      "LocationName": "Chick Fil A-23238",
-      "Longitude": "-77.442931",
-      "LatLngConfidence": 1,
-      "PostalCode": "23238",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
+      "StateProvCode": "CA",
+      "StateProvName": "California",
       "Value": 50
     },
     {
@@ -1014,10 +93,10 @@
       "AppGoalScore": 0,
       "BrandTemplateId": 24101,
       "ApplicationURL": null,
-      "City": "Richmond",
+      "City": "Pinole",
       "Company": "CVS Caremark",
       "Date": "2015-04-24T04:00:00Z",
-      "Distance": "3.5",
+      "Distance": "12.9",
       "Features": [
         "Ecommerce"
       ],
@@ -1033,36 +112,81 @@
         "Full-time",
         "Part-time"
       ],
-      "Id": "6067896",
+      "Id": "6067512",
       "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1",
       "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.5803,-77.5202&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.5803,-77.5202",
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.9896,-122.2692&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.9896,-122.2692",
         "Logo": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1"
       },
       "IsExpired": false,
       "IsSaved": false,
       "IsMobileOptimized": false,
       "JobTitle": "Pharmacy Technician Trainee / Pharmacy Service Associate",
-      "Latitude": "37.5803",
-      "LocationName": "Richmond, VA, 23226",
-      "Longitude": "-77.5202",
+      "Latitude": "37.9896",
+      "LocationName": "Pinole, CA, 94564",
+      "Longitude": "-122.2692",
       "LatLngConfidence": 3,
-      "PostalCode": "23226",
+      "PostalCode": "94564",
       "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
+      "StateProvCode": "CA",
+      "StateProvName": "California",
       "Value": 50
     },
     {
       "AddressLine1": "",
       "AddressLine2": null,
       "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
+      "BrandTemplateId": 133470,
       "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-15T04:00:00Z",
-      "Distance": "6.5",
+      "City": "Daly City",
+      "Company": "Foot+Locker",
+      "Date": "2015-05-14T04:00:00Z",
+      "Distance": "11.7",
+      "Features": [
+        "Ecommerce"
+      ],
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Administration & Office Support"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6073560",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/administration-and-office-support.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.7074,-122.4543&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.7074,-122.4543",
+        "Logo": "https://media.snagajob.com/ui/app/icons/administration-and-office-support.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Assistant Manager",
+      "Latitude": "37.7074",
+      "LocationName": "Daly City, CA, 94016",
+      "Longitude": "-122.4543",
+      "LatLngConfidence": 3,
+      "PostalCode": "94016",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 133470,
+      "ApplicationURL": null,
+      "City": "San Bruno",
+      "Company": "Foot+Locker",
+      "Date": "2015-06-10T04:00:00Z",
+      "Distance": "14.6",
       "Features": [
         "Ecommerce"
       ],
@@ -1078,36 +202,122 @@
         "Full-time",
         "Part-time"
       ],
-      "Id": "6058487",
+      "Id": "6076554",
       "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
       "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.6225,-122.4186&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.6225,-122.4186",
         "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
       },
       "IsExpired": false,
       "IsSaved": false,
       "IsMobileOptimized": false,
-      "JobTitle": "Registered Nurse - L&D (Full-Time / Days / Forest Campus)",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
+      "JobTitle": "Store Manager",
+      "Latitude": "37.6225",
+      "LocationName": "San Bruno, CA,",
+      "Longitude": "-122.4186",
       "LatLngConfidence": 3,
-      "PostalCode": "23234",
+      "PostalCode": null,
       "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "Dublin, CA",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 751,
+      "ApplicationURL": null,
+      "City": "Dublin",
+      "Company": "Vector Marketing",
+      "Date": "2015-05-27T04:00:00Z",
+      "Distance": "19.7",
+      "Features": null,
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Sales & Marketing"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6074503",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/vector.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.7172,-121.9289&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.7172,-121.9289",
+        "Logo": "https://media.snagajob.com/ui/app/logos/vector.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Customer Service/Sales",
+      "Latitude": "37.7172",
+      "LocationName": "Dublin, California",
+      "Longitude": "-121.9289",
+      "LatLngConfidence": 3,
+      "PostalCode": "94568",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "2180 Contra Costa Blvd.",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 166,
+      "ApplicationURL": null,
+      "City": "Pleasant Hill",
+      "Company": "Boston Market",
+      "Date": "2015-02-25T05:00:00Z",
+      "Distance": "15.3",
+      "Features": null,
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Food & Restaurant"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6051945",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.94654,-122.059999&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.94654,-122.059999",
+        "Logo": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Cashier",
+      "Latitude": "37.94654",
+      "LocationName": "1961 - Pleasant Hill - CA",
+      "Longitude": "-122.059999",
+      "LatLngConfidence": 1,
+      "PostalCode": "94523",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
       "Value": 50
     },
     {
       "AddressLine1": "",
       "AddressLine2": null,
       "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
+      "BrandTemplateId": 24101,
       "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-16T04:00:00Z",
-      "Distance": "6.5",
+      "City": "South San Francisco",
+      "Company": "CVS Caremark",
+      "Date": "2015-04-24T04:00:00Z",
+      "Distance": "13",
       "Features": [
         "Ecommerce"
       ],
@@ -1123,36 +333,165 @@
         "Full-time",
         "Part-time"
       ],
-      "Id": "6061654",
+      "Id": "6068016",
       "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
       "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.6562,-122.4257&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.6562,-122.4257",
         "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
       },
       "IsExpired": false,
       "IsSaved": false,
       "IsMobileOptimized": false,
-      "JobTitle": "RN / Part-time / Oncology / Johnston-Willis Hospital",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
+      "JobTitle": "Retail Store Shift Supervisor",
+      "Latitude": "37.6562",
+      "LocationName": "South San Francisco, CA, 94080",
+      "Longitude": "-122.4257",
       "LatLngConfidence": 3,
-      "PostalCode": "23234",
+      "PostalCode": "94080",
       "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "5152 Broadway",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 166,
+      "ApplicationURL": null,
+      "City": "Oakland",
+      "Company": "Boston Market",
+      "Date": "2015-02-25T05:00:00Z",
+      "Distance": "2.6",
+      "Features": null,
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Food & Restaurant"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6053252",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.835209,-122.251442&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.835209,-122.251442",
+        "Logo": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Dishwasher/Utility",
+      "Latitude": "37.835209",
+      "LocationName": "1297 - Oakland - CA",
+      "Longitude": "-122.251442",
+      "LatLngConfidence": 1,
+      "PostalCode": "94611",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "332 Gellert Boulevard",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 166,
+      "ApplicationURL": null,
+      "City": "Daly City",
+      "Company": "Boston Market",
+      "Date": "2015-02-25T05:00:00Z",
+      "Distance": "14.1",
+      "Features": null,
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Food & Restaurant"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6053149",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.667569,-122.469215&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.667569,-122.469215",
+        "Logo": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Dishwasher/Utility",
+      "Latitude": "37.667569",
+      "LocationName": "1384 - Daly City - CA",
+      "Longitude": "-122.469215",
+      "LatLngConfidence": 1,
+      "PostalCode": "94015",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "2180 Contra Costa Blvd.",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 166,
+      "ApplicationURL": null,
+      "City": "Pleasant Hill",
+      "Company": "Boston Market",
+      "Date": "2015-02-25T05:00:00Z",
+      "Distance": "15.3",
+      "Features": null,
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Food & Restaurant"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6052405",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.94654,-122.059999&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.94654,-122.059999",
+        "Logo": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Cook/Backup",
+      "Latitude": "37.94654",
+      "LocationName": "1961 - Pleasant Hill - CA",
+      "Longitude": "-122.059999",
+      "LatLngConfidence": 1,
+      "PostalCode": "94523",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
       "Value": 50
     },
     {
       "AddressLine1": "",
       "AddressLine2": null,
       "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
+      "BrandTemplateId": 24101,
       "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-17T04:00:00Z",
-      "Distance": "6.5",
+      "City": "Alameda",
+      "Company": "CVS Caremark",
+      "Date": "2015-04-22T04:00:00Z",
+      "Distance": "1.8",
       "Features": [
         "Ecommerce"
       ],
@@ -1168,49 +507,43 @@
         "Full-time",
         "Part-time"
       ],
-      "Id": "6062387",
+      "Id": "6064809",
       "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
       "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.7748,-122.2765&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.7748,-122.2765",
         "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
       },
       "IsExpired": false,
       "IsSaved": false,
       "IsMobileOptimized": false,
-      "JobTitle": "RN Charge Nurse / Johnston-Willis / Gamma Knife",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
+      "JobTitle": "Retail Store Shift Supervisor",
+      "Latitude": "37.7748",
+      "LocationName": "Alameda, CA, 94501",
+      "Longitude": "-122.2765",
       "LatLngConfidence": 3,
-      "PostalCode": "23234",
+      "PostalCode": "94501",
       "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
+      "StateProvCode": "CA",
+      "StateProvName": "California",
       "Value": 50
     },
     {
-      "AddressLine1": "444 5th St",
-      "AddressLine2": "",
+      "AddressLine1": "",
+      "AddressLine2": null,
       "AppGoalScore": 0,
-      "BrandTemplateId": 39801,
+      "BrandTemplateId": 133291,
       "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "Ace Hardware",
-      "Date": "2016-06-23T04:00:00Z",
-      "Distance": "10.5",
+      "City": "Oakland",
+      "Company": "24 Hour Fitness Worldwide, Inc.",
+      "Date": "2015-05-12T04:00:00Z",
+      "Distance": "0.5",
       "Features": [
-        "OneClickApply"
+        "Ecommerce"
       ],
       "ProfileModules": {
         "AppVersionSupported": false,
-        "IsSupported": true,
-        "RequiredModules": [
-          2,
-          3,
-          4,
-          6,
-          8
-        ]
+        "IsSupported": false,
+        "RequiredModules": []
       },
       "Industries": [
         "Healthcare"
@@ -1219,159 +552,776 @@
         "Full-time",
         "Part-time"
       ],
-      "Id": "6104111",
+      "Id": "6069359",
       "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1",
       "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.6839,-77.558&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.6839,-77.558",
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.8018,-122.2651&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.8018,-122.2651",
         "Logo": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Fitness Manager",
+      "Latitude": "37.8018",
+      "LocationName": "Oakland, CA, 94604",
+      "Longitude": "-122.2651",
+      "LatLngConfidence": 3,
+      "PostalCode": "94604",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 133470,
+      "ApplicationURL": null,
+      "City": "San Leandro",
+      "Company": "Foot+Locker",
+      "Date": "2015-07-21T04:00:00Z",
+      "Distance": "10.2",
+      "Features": [
+        "Ecommerce"
+      ],
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Administration & Office Support"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6079515",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/administration-and-office-support.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.6868,-122.1576&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.6868,-122.1576",
+        "Logo": "https://media.snagajob.com/ui/app/icons/administration-and-office-support.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Assistant Manager",
+      "Latitude": "37.6868",
+      "LocationName": "San Leandro, CA, 94579",
+      "Longitude": "-122.1576",
+      "LatLngConfidence": 3,
+      "PostalCode": "94579",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 133470,
+      "ApplicationURL": null,
+      "City": "San Leandro",
+      "Company": "Foot+Locker",
+      "Date": "2015-07-21T04:00:00Z",
+      "Distance": "10.2",
+      "Features": [
+        "Ecommerce"
+      ],
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Administration & Office Support"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6079576",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/administration-and-office-support.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.6868,-122.1576&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.6868,-122.1576",
+        "Logo": "https://media.snagajob.com/ui/app/icons/administration-and-office-support.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Assistant Manager",
+      "Latitude": "37.6868",
+      "LocationName": "San Leandro, CA, 94579",
+      "Longitude": "-122.1576",
+      "LatLngConfidence": 3,
+      "PostalCode": "94579",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 24101,
+      "ApplicationURL": null,
+      "City": "San Leandro",
+      "Company": "CVS Caremark",
+      "Date": "2015-04-24T04:00:00Z",
+      "Distance": "10.2",
+      "Features": [
+        "Ecommerce"
+      ],
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Other"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6067626",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.6868,-122.1576&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.6868,-122.1576",
+        "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Retail Store Shift Supervisor",
+      "Latitude": "37.6868",
+      "LocationName": "San Leandro, CA, 94579",
+      "Longitude": "-122.1576",
+      "LatLngConfidence": 3,
+      "PostalCode": "94579",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "5152 Broadway",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 166,
+      "ApplicationURL": null,
+      "City": "Oakland",
+      "Company": "Boston Market",
+      "Date": "2015-02-25T05:00:00Z",
+      "Distance": "2.6",
+      "Features": null,
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Food & Restaurant"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6051761",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.835209,-122.251442&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.835209,-122.251442",
+        "Logo": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Cashier",
+      "Latitude": "37.835209",
+      "LocationName": "1297 - Oakland - CA",
+      "Longitude": "-122.251442",
+      "LatLngConfidence": 1,
+      "PostalCode": "94611",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 24101,
+      "ApplicationURL": null,
+      "City": "Concord",
+      "Company": "CVS Caremark",
+      "Date": "2015-04-24T04:00:00Z",
+      "Distance": "18.9",
+      "Features": [
+        "Ecommerce"
+      ],
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Other"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6068146",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.9823,-122.0123&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.9823,-122.0123",
+        "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Reatil Store Manager - CA - Concord",
+      "Latitude": "37.9823",
+      "LocationName": "Concord, CA, 94519",
+      "Longitude": "-122.0123",
+      "LatLngConfidence": 3,
+      "PostalCode": "94519",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "3060 East 9th Street, Suite E",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 166,
+      "ApplicationURL": null,
+      "City": "Oakland",
+      "Company": "Boston Market",
+      "Date": "2015-02-25T05:00:00Z",
+      "Distance": "3.1",
+      "Features": null,
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Food & Restaurant"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6054207",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.774314,-122.230043&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.774314,-122.230043",
+        "Logo": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "General Manager",
+      "Latitude": "37.774314",
+      "LocationName": "2288 - Oakland - CA",
+      "Longitude": "-122.230043",
+      "LatLngConfidence": 1,
+      "PostalCode": "94601",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "2300 16th Street., Suite 100",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 166,
+      "ApplicationURL": null,
+      "City": "San Francisco",
+      "Company": "Boston Market",
+      "Date": "2015-02-25T05:00:00Z",
+      "Distance": "7.7",
+      "Features": null,
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Food & Restaurant"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6054072",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.766546,-122.410052&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.766546,-122.410052",
+        "Logo": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "General Manager",
+      "Latitude": "37.766546",
+      "LocationName": "1386 - San Francisco - CA",
+      "Longitude": "-122.410052",
+      "LatLngConfidence": 1,
+      "PostalCode": "94103",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 133470,
+      "ApplicationURL": null,
+      "City": "San Mateo",
+      "Company": "Foot+Locker",
+      "Date": "2015-05-14T04:00:00Z",
+      "Distance": "15.9",
+      "Features": [
+        "Ecommerce"
+      ],
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Other"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6070864",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.5741,-122.3193&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.5741,-122.3193",
+        "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Store Manager",
+      "Latitude": "37.5741",
+      "LocationName": "San Mateo, CA, 94401",
+      "Longitude": "-122.3193",
+      "LatLngConfidence": 3,
+      "PostalCode": "94401",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 133470,
+      "ApplicationURL": null,
+      "City": "San Mateo",
+      "Company": "Foot+Locker",
+      "Date": "2015-06-10T04:00:00Z",
+      "Distance": "15.9",
+      "Features": [
+        "Ecommerce"
+      ],
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Other"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6076330",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.5741,-122.3193&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.5741,-122.3193",
+        "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Store Manager",
+      "Latitude": "37.5741",
+      "LocationName": "San Mateo, CA, 94401",
+      "Longitude": "-122.3193",
+      "LatLngConfidence": 3,
+      "PostalCode": "94401",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 24101,
+      "ApplicationURL": null,
+      "City": "Castro Valley",
+      "Company": "CVS Caremark",
+      "Date": "2015-04-24T04:00:00Z",
+      "Distance": "12.4",
+      "Features": [
+        "Ecommerce"
+      ],
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Healthcare"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6067994",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.7052,-122.0821&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.7052,-122.0821",
+        "Logo": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Pharmacy Technician Trainee / Pharmacy Service Associate",
+      "Latitude": "37.7052",
+      "LocationName": "Castro Valley, CA, 94546",
+      "Longitude": "-122.0821",
+      "LatLngConfidence": 3,
+      "PostalCode": "94546",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 133470,
+      "ApplicationURL": null,
+      "City": "Concord",
+      "Company": "Foot+Locker",
+      "Date": "2015-07-21T04:00:00Z",
+      "Distance": "18.9",
+      "Features": [
+        "Ecommerce"
+      ],
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Administration & Office Support"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6079069",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/administration-and-office-support.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.9823,-122.0123&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.9823,-122.0123",
+        "Logo": "https://media.snagajob.com/ui/app/icons/administration-and-office-support.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Assistant Manager",
+      "Latitude": "37.9823",
+      "LocationName": "Concord, CA, 94519",
+      "Longitude": "-122.0123",
+      "LatLngConfidence": 3,
+      "PostalCode": "94519",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 133470,
+      "ApplicationURL": null,
+      "City": "San Francisco",
+      "Company": "Foot+Locker",
+      "Date": "2015-05-14T04:00:00Z",
+      "Distance": "10.2",
+      "Features": [
+        "Ecommerce"
+      ],
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Other"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6072812",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.7817,-122.4615&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.7817,-122.4615",
+        "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Store Manager",
+      "Latitude": "37.7817",
+      "LocationName": "San Francisco, CA, 94118",
+      "Longitude": "-122.4615",
+      "LatLngConfidence": 3,
+      "PostalCode": "94118",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "3060 East 9th Street, Suite E",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 166,
+      "ApplicationURL": null,
+      "City": "Oakland",
+      "Company": "Boston Market",
+      "Date": "2015-02-25T05:00:00Z",
+      "Distance": "3.1",
+      "Features": null,
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Food & Restaurant"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6051038",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.774314,-122.230043&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.774314,-122.230043",
+        "Logo": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Assistant General Manager",
+      "Latitude": "37.774314",
+      "LocationName": "2288 - Oakland - CA",
+      "Longitude": "-122.230043",
+      "LatLngConfidence": 1,
+      "PostalCode": "94601",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 133470,
+      "ApplicationURL": null,
+      "City": "San Francisco",
+      "Company": "Foot+Locker",
+      "Date": "2015-05-14T04:00:00Z",
+      "Distance": "10.2",
+      "Features": [
+        "Ecommerce"
+      ],
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Other"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6070956",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.7817,-122.4615&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.7817,-122.4615",
+        "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Store Manager",
+      "Latitude": "37.7817",
+      "LocationName": "San Francisco, CA, 94118",
+      "Longitude": "-122.4615",
+      "LatLngConfidence": 3,
+      "PostalCode": "94118",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "San Francisco, CA",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 1590,
+      "ApplicationURL": null,
+      "City": "San Francisco",
+      "Company": "Test Brand",
+      "Date": "2016-05-19T04:00:00Z",
+      "Distance": "8",
+      "Features": null,
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Retail"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6103054",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/chickfila.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.7795,-122.4195&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.7795,-122.4195",
+        "Logo": "https://media.snagajob.com/ui/app/logos/chickfila.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Customer Service Representative",
+      "Latitude": "37.7795",
+      "LocationName": "94102",
+      "Longitude": "-122.4195",
+      "LatLngConfidence": 3,
+      "PostalCode": "94102",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "2300 16th Street., Suite 100",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 166,
+      "ApplicationURL": null,
+      "City": "San Francisco",
+      "Company": "Boston Market",
+      "Date": "2015-02-25T05:00:00Z",
+      "Distance": "7.7",
+      "Features": null,
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Food & Restaurant"
+      ],
+      "Categories": [
+        "Full-time",
+        "Part-time"
+      ],
+      "Id": "6052230",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.766546,-122.410052&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.766546,-122.410052",
+        "Logo": "https://media.snagajob.com/ui/app/logos/boston_market.png?v=1"
+      },
+      "IsExpired": false,
+      "IsSaved": false,
+      "IsMobileOptimized": false,
+      "JobTitle": "Cook/Backup",
+      "Latitude": "37.766546",
+      "LocationName": "1386 - San Francisco - CA",
+      "Longitude": "-122.410052",
+      "LatLngConfidence": 1,
+      "PostalCode": "94103",
+      "SavedDate": null,
+      "StateProvCode": "CA",
+      "StateProvName": "California",
+      "Value": 50
+    },
+    {
+      "AddressLine1": "2601Larkspur Landing Circle",
+      "AddressLine2": null,
+      "AppGoalScore": 0,
+      "BrandTemplateId": 134,
+      "ApplicationURL": null,
+      "City": "Larkspur",
+      "Company": "Bed Bath & Beyond",
+      "Date": "2011-04-19T04:00:00Z",
+      "Distance": "16.1",
+      "Features": null,
+      "ProfileModules": {
+        "AppVersionSupported": false,
+        "IsSupported": false,
+        "RequiredModules": []
+      },
+      "Industries": [
+        "Retail",
+        "Customer Service",
+        "Sales & Marketing"
+      ],
+      "Categories": [
+        "Part-time"
+      ],
+      "Id": "4438341",
+      "LogoImageUrl": "https://media.snagajob.com/ui/app/logos/bed_bath_beyond.png?v=1",
+      "Image": {
+        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.946906,-122.507415&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.946906,-122.507415",
+        "Logo": "https://media.snagajob.com/ui/app/logos/bed_bath_beyond.png?v=1"
       },
       "IsExpired": false,
       "IsSaved": false,
       "IsMobileOptimized": true,
-      "JobTitle": "Always Active",
-      "Latitude": "37.6839",
-      "LocationName": "Always Keep Active",
-      "Longitude": "-77.558",
-      "LatLngConfidence": 3,
-      "PostalCode": "23060",
+      "JobTitle": "Cashiers",
+      "Latitude": "37.946906",
+      "LocationName": "#0527 - 2601 Larkspur Landing Circle",
+      "Longitude": "-122.507415",
+      "LatLngConfidence": 0,
+      "PostalCode": "94939",
       "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-16T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Other"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6059778",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": false,
-      "JobTitle": "Foodservice Associate PRN / Chippenham Hospital",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-17T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Other"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6062628",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/other.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/other.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": false,
-      "JobTitle": "Registered Nurse - Postpartum (PRN / Forest Campus)",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
-      "Value": 50
-    },
-    {
-      "AddressLine1": "",
-      "AddressLine2": null,
-      "AppGoalScore": 0,
-      "BrandTemplateId": 133218,
-      "ApplicationURL": null,
-      "City": "Richmond",
-      "Company": "HCA",
-      "Date": "2015-04-17T04:00:00Z",
-      "Distance": "6.5",
-      "Features": [
-        "Ecommerce"
-      ],
-      "ProfileModules": {
-        "AppVersionSupported": false,
-        "IsSupported": false,
-        "RequiredModules": []
-      },
-      "Industries": [
-        "Healthcare"
-      ],
-      "Categories": [
-        "Full-time",
-        "Part-time"
-      ],
-      "Id": "6062358",
-      "LogoImageUrl": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1",
-      "Image": {
-        "Map": "https://maps.googleapis.com/maps/api/staticmap?center=37.4513,-77.4708&zoom=16&size=600x300&maptype=roadmap&markers=color:blue|label:S|37.4513,-77.4708",
-        "Logo": "https://media.snagajob.com/ui/app/icons/healthcare.png?v=1"
-      },
-      "IsExpired": false,
-      "IsSaved": false,
-      "IsMobileOptimized": false,
-      "JobTitle": "Respiratory Therapist Cert PRN NICU",
-      "Latitude": "37.4513",
-      "LocationName": "Richmond, VA, 23234",
-      "Longitude": "-77.4708",
-      "LatLngConfidence": 3,
-      "PostalCode": "23234",
-      "SavedDate": null,
-      "StateProvCode": "VA",
-      "StateProvName": "Virginia",
+      "StateProvCode": "CA",
+      "StateProvName": "California",
       "Value": 50
     }
   ]
